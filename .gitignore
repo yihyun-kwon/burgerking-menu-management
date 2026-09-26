@@ -1,4 +1,5 @@
-/database/account.sql
+/src/main/java/com/yihyun/config/connection-info.properties
+database/account.sql
 .idea
 .gradle
 build/
